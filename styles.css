@@ -1,1 +1,24 @@
-/* your code */
+table{
+	border:2px solid #B3C8CF;
+	font-family:arial;
+	font-size:12px;
+	border-collapse:collapse;
+	border-radius:8px;
+	overflow:hidden;
+}
+.head{
+	
+	background-color:#0A3981;
+	color:white;
+}
+.col
+{
+	padding: 5px 200px 5px 5px;
+}
+
+td,th{
+	padding:5px 50px 5px 5px;
+}
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+ }
